@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="client-combined-3.141.59">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../libs/selenium/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/selenium/libs/byte-buddy-1.8.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
